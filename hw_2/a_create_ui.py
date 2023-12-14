@@ -15,7 +15,7 @@ class Window(QtWidgets.QWidget):
         :return: None
         """
 
-        # label ----------------------------------------------------------
+        # label -----------------------------------------------------------
         labelLogin = QtWidgets.QLabel("Логин")
         labelLogin.setMinimumWidth(70)  # установил минимальную ширину для более лучшего отображения
         labelRegistration = QtWidgets.QLabel("Регистрация")

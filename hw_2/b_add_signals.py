@@ -17,7 +17,7 @@ class Window(QtWidgets.QWidget):
         :return: None
         """
 
-        # comboBox ----------------------------------------------------------
+        # comboBox -----------------------------------------------------------
         self.comboBox = QtWidgets.QComboBox()
         self.comboBox.addItem("Элемент 1")
         self.comboBox.addItem("Элемент 2")
